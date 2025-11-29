@@ -177,19 +177,8 @@ Commercial use requires permission.
 
 ### **Lavanya Srivastava**
 
-AI Developer | Agentic AI Specialist | Corporate Trainer
 
 🌐 GitHub: [https://github.com/lavanya1402](https://github.com/lavanya1402)
 💼 LinkedIn: [https://linkedin.com/in/lavanya-srivastava](https://linkedin.com/in/lavanya-srivastava)
 📧 Email: [lavanaya.srivastava@gmail.com](mailto:lavanaya.srivastava@gmail.com)
 
----
-
-If you want, I can also generate:
-
-✨ A **README banner image** with your name and project logo
-✨ A **workflow diagram** in image format
-✨ A **short YouTube-friendly demo script**
-✨ A **LinkedIn post to announce this project**
-
-Just tell me — I’m here for you, always 🤗💛
