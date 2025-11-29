@@ -145,10 +145,12 @@ Final Best Product Recommendation
 
 # 📸 **Screenshots**
 
-> <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/9158b947-bd90-4d33-92ba-a9aaa0988858" />
-<img width="941" height="464" alt="image" src="https://github.com/user-attachments/assets/cc3619e1-140f-4fb4-8a02-f7a87e4365b9" />
-<img width="709" height="86" alt="image" src="https://github.com/user-attachments/assets/cb9e4eb4-695f-4b9d-be7a-62b64ee62c69" />
-
+<img width="932" height="467" alt="image" src="https://github.com/user-attachments/assets/23aee07f-75c7-4f4f-a64b-d79cfe2bee6c" />
+<img width="943" height="476" alt="image" src="https://github.com/user-attachments/assets/7e3dfb25-5321-48e7-923b-784854529e38" />
+<img width="952" height="485" alt="image" src="https://github.com/user-attachments/assets/7617702b-579f-4055-817d-94298683acea" />
+<img width="933" height="447" alt="image" src="https://github.com/user-attachments/assets/0f77b5c4-55a0-47f5-917f-2f9dc6a734be" />
+<img width="929" height="476" alt="image" src="https://github.com/user-attachments/assets/909b5da8-2651-4268-84e7-f183d339a472" />
+<img width="958" height="275" alt="image" src="https://github.com/user-attachments/assets/ae2d13d8-1088-445f-bacc-001879d1af39" />
 
 # 🔮 **Future Enhancements**
 
