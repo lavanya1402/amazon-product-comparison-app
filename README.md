@@ -1,6 +1,6 @@
 # 🛒 **Amazon Product Comparison App (AI-Powered)**
 
-### ⚡ Built by **Lavanya Srivastava** — AI Developer • Agentic AI Specialist • Corporate Trainer
+### ⚡ Built by **Lavanya Srivastava** 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
