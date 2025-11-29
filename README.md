@@ -2,13 +2,7 @@
 
 ### Built with ❤️ by **Lavanya Srivastava**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebScraping-BeautifulSoup-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/AI-Product%20Recommender-purple?logo=openai" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?logo=github" />
-</p>
+
 
 <p align="center">
   <img width="80%" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
