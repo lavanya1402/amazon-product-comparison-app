@@ -148,18 +148,10 @@ Final Best Product Recommendation
 <img width="940" height="483" alt="image" src="https://github.com/user-attachments/assets/2b770711-50c0-4216-b782-93651df5e5cf" />
 <img width="955" height="472" alt="image" src="https://github.com/user-attachments/assets/3f315d75-4fde-43f0-b71f-2d7161f8f030" />
 <img width="943" height="488" alt="image" src="https://github.com/user-attachments/assets/9a6d0308-0a74-4563-a74b-7efbde7e798d" />
-<img width="944" height="439" alt="image" src="https://github.com/user-attachments/assets/5348f39e-5f42-4d82-a8b8-d47832da32ff" />
-<img width="668" height="133" alt="image" src="https://github.com/user-attachments/assets/f2d73e61-80a6-436f-9372-f69206684f4d" />
+<img width="925" height="443" alt="image" src="https://github.com/user-attachments/assets/628db8c6-2708-4598-9eb2-53408d632915" />
+<img width="917" height="469" alt="image" src="https://github.com/user-attachments/assets/ed691adf-68a8-4fa9-a9ba-98d9e38f4d12" />
+<img width="928" height="437" alt="image" src="https://github.com/user-attachments/assets/c591f74b-6426-443a-a5c8-c9c5cfeb2656" />
 
-
-
-
-
-
-
-
-
----
 
 # 🔮 **Future Enhancements**
 
