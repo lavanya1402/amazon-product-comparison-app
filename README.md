@@ -3,10 +3,6 @@
 ### Built with ❤️ by **Lavanya Srivastava**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Amazon%20Product%20Comparison%20App&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/WebScraping-BeautifulSoup-yellow?logo=python" />
@@ -138,7 +134,6 @@ streamlit run app/main.py
 
 ### 🔹 Input UI
 
-<img width="80%" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
 
 ### 🔹 Base Product + Similar Items
 
