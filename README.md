@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Streamlit-ff4b4b?logo=streamlit&logoColor=white" />
+  <img width="945" height="476" alt="image" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
   <img src="https://img.shields.io/badge/WebScraping-BeautifulSoup-yellow?logo=python" />
   <img src="https://img.shields.io/badge/AI-RecommendationEngine-purple?logo=openai" />
   <img src="https://img.shields.io/badge/Status-Active-success?logo=github" />
