@@ -1,6 +1,6 @@
 # 🛒 **Amazon Product Comparison App (AI-Powered)**
 
-### ⚡ Built by **Lavanya Srivastava** — AI Developer • Agentic AI Specialist • Corporate Trainer
+### ⚡ Built by **Lavanya Srivastava** — • Agentic AI Specialist • Corporate Trainer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
@@ -145,7 +145,12 @@ Final Best Product Recommendation
 
 # 📸 **Screenshots**
 
-> *(Add your images to `images/screenshots/` and these links will auto-work)*
+> *<img width="898" height="469" alt="image" src="https://github.com/user-attachments/assets/820e45f8-115d-4628-8c93-ba2285bfeedf" />
+<img width="953" height="469" alt="image" src="https://github.com/user-attachments/assets/182d65ef-b680-4918-910b-3945a6917096" />
+*<img width="930" height="171" alt="image" src="https://github.com/user-attachments/assets/91f0acc0-f02d-4a4e-8821-36a2a619b75e" /><img width="629" height="130" alt="image" src="https://github.com/user-attachments/assets/e35eaa7f-629f-42bc-89b9-771dd11e57ea" />![Uploading image.png…]()
+
+
+
 
 ### 🏠 Home Screen
 
