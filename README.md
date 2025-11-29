@@ -1,90 +1,101 @@
-# 🛒 **Amazon Product Comparison App (AI-Powered)**
+# 🛍️ **Amazon Product Comparison App (AI-Powered & Fully Automated)**
 
-### ⚡ Built by **Lavanya Srivastava** —
+### Built with ❤️ by **Lavanya Srivastava**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=200&section=header&text=Amazon%20Product%20Comparison%20App&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
-  <img width="945" height="476" alt="image" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/WebScraping-BeautifulSoup-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/AI-RecommendationEngine-purple?logo=openai" />
-  <img src="https://img.shields.io/badge/Status-Active-success?logo=github" />
+  <img src="https://img.shields.io/badge/AI-Product%20Recommender-purple?logo=openai" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Amazon%20Product%20Comparison%20App&fontSize=32&fontAlignY=55" />
+  <img width="80%" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
 </p>
 
-A powerful **AI-powered Amazon product comparison tool** that lets users easily compare products using **Product Name**, **ASIN**, or **Amazon URL**, and always returns **at least 5 best-matching products** with rich insights, charts, and final recommendations.
+<p align="center">
+A powerful automated system that scrapes Amazon, finds similar products, analyzes data, ranks them using an AI-driven scoring engine, and visualizes the results beautifully.
+</p>
 
 ---
 
-# 📌 **Highlights**
+# 🌟 **Why This App Stands Out**
 
-### 🔍 **Flexible Input Choices**
+Your app is not just a scraper — it is a **full product intelligence system**.
 
-You can search using:
+### 🔥 **Key Superpowers**
 
-* Product Name
-* ASIN
-* Amazon Product URL
-
-### 🤖 **AI-Driven Recommendations**
-
-Ranking is based on:
-
-* Price
-* Rating
-* Reviews
-* Feature richness
-* Weighted AI score (0–100)
-
-### 📊 **Beautiful Visual Charts**
-
-* Price Comparison
-* Rating Comparison
-* Combined Overall Score Chart
-
-### 📦 **Smart Scraping (Fail-Proof)**
-
-* Uses multiple search strategies
-* Ensures **minimum 5 products**
-* Cleans and formats messy Amazon data
-* Handles complicated selectors
-
-### ⚠️ **Robust Error Handling**
-
-* Invalid input
-* Missing data
-* Amazon blocking
-* Scrape failures
-* Network timeouts
-
-### 🧾 **Download as CSV**
-
-Export all comparisons in one click.
+✔ Accepts **Product Name, ASIN, or Amazon URL**
+✔ Always fetches **minimum 5 products** (fault-tolerant)
+✔ AI-powered **100-point scoring engine**
+✔ Smart comparison across **Price, Ratings, Reviews & Features**
+✔ Beautiful **graphs & charts**
+✔ Downloadable **CSV report**
+✔ Professional **error handling**
+✔ Production-ready **Streamlit UI**
 
 ---
 
-# 🗂️ **Project Structure**
+# 🧠 **How It Works**
+
+<p align="center">
+  <img width="85%" src="https://github.com/user-attachments/assets/23aee07f-75c7-4f4f-a64b-d79cfe2bee6c" />
+</p>
+
+```
+1. User enters Name / ASIN / URL
+2. Scraper fetches the base product
+3. System collects & validates 5+ similar products
+4. All data is cleaned → formatted → normalized
+5. AI engine assigns weighted scores
+6. Streamlit displays a comparison table + charts
+7. Final best recommendation shown
+```
+
+---
+
+# 🧩 **Features Explained**
+
+### 🔍 **Flexible Input Types**
+
+* ✔ Product Name
+* ✔ ASIN
+* ✔ Amazon URL
+
+### 📊 **Insightful Visualizations**
+
+* Price graph
+* Rating graph
+* AI score graph
+
+<p align="center">
+  <img width="85%" src="https://github.com/user-attachments/assets/7e3dfb25-5321-48e7-923b-784854529e38" />
+</p>
+
+---
+
+# 🗂️ **Project Structure (Clean Architecture)**
 
 ```
 amazon-comparison-project/
 │
 ├── app/
-│   ├── scraper.py           # Scrapes product + similar items
-│   ├── comparator.py        # Comparison logic & ranking
-│   ├── recommender.py       # AI scoring engine
-│   ├── utils.py             # Cleaners, formatters, helpers
-│   └── main.py              # Streamlit app entry
+│   ├── scraper.py           # Smart Amazon scraper
+│   ├── comparator.py        # Core comparison logic
+│   ├── recommender.py       # AI scoring algorithm
+│   ├── utils.py             # Helper utilities
+│   └── main.py              # Streamlit UI
 │
 ├── data/
 │   └── sample_output.csv
 │
 ├── images/
 │   └── screenshots/
-│       ├── ui_home.png
-│       ├── comparison_table.png
-│       ├── charts.png
 │
 ├── requirements.txt
 ├── .gitignore
@@ -95,7 +106,7 @@ amazon-comparison-project/
 
 # ▶️ **How to Run Locally**
 
-### 1️⃣ Clone the repo
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/lavanya1402/amazon-product-comparison-app.git
@@ -106,7 +117,7 @@ cd amazon-product-comparison-app
 
 ```bash
 python -m venv venv
-source venv/bin/activate      # Windows → venv\Scripts\activate
+source venv/bin/activate     # Windows → venv\Scripts\activate
 ```
 
 ### 3️⃣ Install dependencies
@@ -115,7 +126,7 @@ source venv/bin/activate      # Windows → venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Launch the app
+### 4️⃣ Run Streamlit App
 
 ```bash
 streamlit run app/main.py
@@ -123,51 +134,46 @@ streamlit run app/main.py
 
 ---
 
-# 🧠 **How It Works**
+# 🖼️ **Screenshots (Clean, Professional)**
 
-```
-User Input
-     ↓
-Identify Base Product (Name/ASIN/URL)
-     ↓
-Scrape Similar Products (min. 5)
-     ↓
-Clean + Standardize Data
-     ↓
-AI Scoring → Price + Ratings + Reviews
-     ↓
-Comparison Table + Visual Charts
-     ↓
-Final Best Product Recommendation
-```
+### 🔹 Input UI
 
----
+<img width="80%" src="https://github.com/user-attachments/assets/79ff3618-7bc3-46fd-8123-7da17edee55e" />
 
-# 📸 **Screenshots**
+### 🔹 Base Product + Similar Items
 
-<img width="932" height="467" alt="image" src="https://github.com/user-attachments/assets/23aee07f-75c7-4f4f-a64b-d79cfe2bee6c" />
-<img width="943" height="476" alt="image" src="https://github.com/user-attachments/assets/7e3dfb25-5321-48e7-923b-784854529e38" />
-<img width="952" height="485" alt="image" src="https://github.com/user-attachments/assets/7617702b-579f-4055-817d-94298683acea" />
-<img width="933" height="447" alt="image" src="https://github.com/user-attachments/assets/0f77b5c4-55a0-47f5-917f-2f9dc6a734be" />
-<img width="929" height="476" alt="image" src="https://github.com/user-attachments/assets/909b5da8-2651-4268-84e7-f183d339a472" />
-<img width="958" height="275" alt="image" src="https://github.com/user-attachments/assets/ae2d13d8-1088-445f-bacc-001879d1af39" />
+<img width="80%" src="https://github.com/user-attachments/assets/23aee07f-75c7-4f4f-a64b-d79cfe2bee6c" />
 
-# 🔮 **Future Enhancements**
+### 🔹 Comparison Table
 
-* 🛍️ Add Amazon Prime eligibility filter
-* 🌐 Multi-region support (US, UK, UAE, India)
-* 🤖 Chat-bot interface for exploring products
-* 🧠 LLM-based product summary
-* 📦 Add “Top 10 Alternatives” mode
+<img width="80%" src="https://github.com/user-attachments/assets/7e3dfb25-5321-48e7-923b-784854529e38" />
+
+### 🔹 Visual Charts
+
+<img width="80%" src="https://github.com/user-attachments/assets/7617702b-579f-4055-817d-94298683acea" />
+
+### 🔹 Recommendation Summary
+
+<img width="80%" src="https://github.com/user-attachments/assets/909b5da8-2651-4268-84e7-f183d339a472" />
 
 ---
 
-# 🧾 **License**
+# 💡 **Future Enhancements**
+
+✨ Multi-Amazon-Region Support (US, UK, UAE, India)
+✨ Prime-Only Filter
+✨ AI-Chatbot for product suggestions
+✨ LLM-based product summaries
+✨ Competitor Intelligence Dashboard
+
+---
+
+# 📜 **License**
 
 ```
 © 2025 Lavanya Srivastava — All Rights Reserved.
-This project is for learning, teaching, and demonstration purposes only.
-Commercial use requires permission.
+This project is for learning and demo purposes.
+Commercial use requires written permission.
 ```
 
 ---
@@ -176,9 +182,8 @@ Commercial use requires permission.
 
 ### **Lavanya Srivastava**
 
-Agentic AI Specialist | Corporate Trainer
 
 🌐 GitHub: [https://github.com/lavanya1402](https://github.com/lavanya1402)
 💼 LinkedIn: [https://linkedin.com/in/lavanya-srivastava](https://linkedin.com/in/lavanya-srivastava)
-📧 Email: [lavanaya.srivastava@gmail.com](mailto:lavanaya.srivastava@gmail.com)
+📧 [lavanaya.srivastava@gmail.com](mailto:lavanaya.srivastava@gmail.com)
 
