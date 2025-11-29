@@ -145,11 +145,9 @@ Final Best Product Recommendation
 
 # 📸 **Screenshots**
 
-> *<img width="898" height="469" alt="image" src="https://github.com/user-attachments/assets/820e45f8-115d-4628-8c93-ba2285bfeedf" />
-<img width="953" height="469" alt="image" src="https://github.com/user-attachments/assets/182d65ef-b680-4918-910b-3945a6917096" />
-*<img width="930" height="171" alt="image" src="https://github.com/user-attachments/assets/91f0acc0-f02d-4a4e-8821-36a2a619b75e" /><img width="629" height="130" alt="image" src="https://github.com/user-attachments/assets/e35eaa7f-629f-42bc-89b9-771dd11e57ea" />![Uploading image.png…]()
-
-
+> <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/9158b947-bd90-4d33-92ba-a9aaa0988858" />
+<img width="941" height="464" alt="image" src="https://github.com/user-attachments/assets/cc3619e1-140f-4fb4-8a02-f7a87e4365b9" />
+<img width="709" height="86" alt="image" src="https://github.com/user-attachments/assets/cb9e4eb4-695f-4b9d-be7a-62b64ee62c69" />
 
 
 ### 🏠 Home Screen
